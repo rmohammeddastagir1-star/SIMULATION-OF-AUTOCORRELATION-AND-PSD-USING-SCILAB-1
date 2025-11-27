@@ -11,7 +11,7 @@ __EQUIPMENTS Needed:__
 
 .SCI LAB
 
-
+.
 __THEORY:__
 
 The Wiener-Khinchin theorem states that the power spectral density of a wide sense stationary random process is the 
